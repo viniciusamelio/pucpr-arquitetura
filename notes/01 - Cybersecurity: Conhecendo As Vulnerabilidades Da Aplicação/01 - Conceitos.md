@@ -37,7 +37,7 @@
 ## Qual o motivo para conhecer as vulnerabilidades?
 **Conhecer as vulnerabilidades nos ajuda a saber onde investir**
 **Conhecer as vulnerabilidades nos ajuda a saber nossos pontos fracos**
-**Conhecer as vulnerabilidades nos ajuda a melhor a eficiência do negócio**
+**Conhecer as vulnerabilidades nos ajuda a melhorar a eficiência do negócio**
 
 
 ## Regras da segurança da informação (Relembrar é viver)
@@ -65,6 +65,59 @@
     - Toda ação executada deve inibir a ação de negação por parte do usuário (logs, por exemplo)
 - Autenticidade
     - Colabora com integridade e não repúdio
+
+### Confidencialidade
+    - Encriptação
+    - Controle de acesso
+        - Regras e políticas que limitam o acesso a informação confidencial apenas para pessoas ou sistemas com a necessidade de saber. Essa necessidade é baseada em alguma identificação referente ao elemento, como um papel desempenhado, nome ou número serial de uma máquina, por exemplo
+    - Autenticação
+        - A determinação da identidade ou do papel de alguém. Pode ser feita através da combinação de algo que a pessoa possui, como um dispositivo que armazena chaves secretas, algo que a pessoa sabe, como uma senha ou algo que a pessoa seja, como traços biométricos
+    - Autorização
+        - A determinação se uma pessoa ou sistema tem permissão para acessar os recursos solicitados, com base em uma política de controle
+    - Segurança física
+
+### Integridade
+     - Comprometimento benigno
+        - Uma alteração causada a um dispositivo físico, como um HD, que faz o mesmo perder/corromper seus dados
+     - Compromentimento malicioso
+        - Vírus que infecta rede
+
+#### Ferramentas para apoiar a integridade
+    - Cópias de segurança
+        - Arquivamento periódico de dados
+    - Somas de verificação (checksums)
+         - Computação de função que mapeia o conteúdo do arquivo para um valor numérico. Depende do conteúdo completo do arquivo. São como detonadores para detectar uma ocorrência de brecha na integridade
+    - Códigos de correção de dados
+        - Métodos para armazenar dados de tal maneira que pequenas alterações podem ser facilmente detectadas e automaicametne corrigidas.
+
+- As ferramentas acima tem em comum o uso de redundâncias
+- Metadados também precisam ser protegidos
+    - Usuário proprietário, última modificação, etc
+
+### Disponibilidade
+     - Proteções físicas
+        - Infra projetada para manter a informação disponível mesmo na presença de desafios físicos.
+    - Redundâncias computacionais
+        - arrays de RAID
+
+## Garantia, autenticidade e anonimato
+
+ - Garantia
+    - como a confiança é fornecida e gerenciada em sistemas
+    - Envolve a interação dos seguintes: 
+        - **Políticas**: Expectativas comportamentais que pessoas ou sistemas têm de si mesmas ou de outros. 
+        - **Permissões**: Descrevem comportamentos permitidos pelos agentes que interagem com uma pessoa ou ssitema
+        - **Proteções**: Descrevem mecanismos inseridos para assegurar permissões e políticas
+## Autenticidade
+ - É a habilidade de determinar que afirmaçoes, políticas e permissões de pessoas ou sistemas são genuínas
+ - Assinaturas digitais são um bom exemplo de como garantir o não repúdio
+
+## Anonimato
+ - Ferramentas para preservação da privacidade:
+    - Agregação: Combinação ded ados de muitos indivíduos de modo que a divulgação dessas somas ou médias não possas ser vinculada a qualquer indivíduo. Exemplo: Censo (IBGE)
+    - Mistura: Entrelaçamento de transações, infos ou comunicações de modo que não possam ser rastreadas a nenhum indivíduo.
+    - Representantes (proxies): Agentes de confiança que querem se engajar em ações para um indivíduo de maneira que não possam ser rastreados de volta para aquela pessoa.
+    - Pseudônimos: Identidades ficcionais que podem servir como identidades reais em comunicações e transações, mas que são conhecidas apenas por entidades de confiança.
 
 
 ## Criptografia
@@ -114,3 +167,8 @@
     - Pode ser integrada com Pipelines
 - Zed attack proxy
 - Documentos
+
+
+## Os dez príncipios de segurança
+
+![Alt text](image.png)
