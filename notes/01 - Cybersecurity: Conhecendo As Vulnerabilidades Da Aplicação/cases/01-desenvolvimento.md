@@ -8,16 +8,17 @@ A empresa ACME Development está entrando no mercado de meios de pagamento, e in
     - Mapear os serviços a serem desenvolvidos, os recursos da AWS que irão compor o projeto, bem como pontos de contato entre os serviços internos, de maneira a validar os tratamentos necessários de input, além de realizar a modelagem de ameaças e suas contigências
 
 - Quais os requisitos primordiais para adequar o projeto ao compliance do PCI-DSS?
-    - Utilizar um firewall suficientemente forte para ser efetivo, mas mantendo uma boa UX
+    - Instalar e manter uma configuração de firewall para proteger os dados do titular do cartão
+    - Utilizar um firewall suficientemente forte para ser efetivo
     - Não utilizar senhas e configuraçõess padrões fornecidas pelos vendedores
-    - Proteger as informações inerentes as transações e participantes das mesmas
-    - Utilizar criptografia na transmissão dos dados dos titulares
+    - Proteger os dados armazenados do titular do cartão
+    - Utilizar criptografia na transmissão dos dados dos titulares dos cartões
     - Utilizar software antivírus, antispyware e antimalware atualizados
     - Desenvolver e manter sistemas e aplicações seguras
     - Restringer acesso aos dados dos cartões de acordo com o cargo do empregado de cada empresa
     - Designar dados de login únicos para cada usuário
-    - Restringir acesssos físicos e eletrônicos aos dados das transações
-    - Rastrear e monitorar todos os acessos à rede e dados de transações
+    - Restringir acesssos físicos e eletrônicos aos dados dos cartões
+    - Rastrear e monitorar todos os acessos à rede e dados dos cartões
     - Testar a segurança de sistemas e processos regularmente
     - Definir uma política de segurança que seja seguida e mantida por todos 
 
