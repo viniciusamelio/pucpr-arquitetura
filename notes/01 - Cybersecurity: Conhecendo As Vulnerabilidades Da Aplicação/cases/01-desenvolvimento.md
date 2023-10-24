@@ -5,19 +5,19 @@ A empresa ACME Development está entrando no mercado de meios de pagamento, e in
 
 ## Insights e perguntas para o debate
 - Quais são os primeiros passos para iniciar o projeto?
-    - Mapear os serviços a serem desenvolvidos, os recursos da AWS que irão compor o projeto, bem como pontos de contato entre os serviços internos, de maneira a validar os tratamentos necessários de input, além de realizar a modelagem de ameaças e suas contigências
+    - Mapear os serviços a serem desenvolvidos, os recursos da AWS que irão compor o projeto, bem como pontos de contato entre os serviços internos, de maneira a validar os tratamentos necessários de input, além de realizar a modelagem de ameaças e suas contingências
 
 - Quais os requisitos primordiais para adequar o projeto ao compliance do PCI-DSS?
     - Instalar e manter uma configuração de firewall para proteger os dados do titular do cartão
     - Utilizar um firewall suficientemente forte para ser efetivo
-    - Não utilizar senhas e configuraçõess padrões fornecidas pelos vendedores
+    - Não utilizar senhas e configurações padrões fornecidas pelos vendedores
     - Proteger os dados armazenados do titular do cartão
     - Utilizar criptografia na transmissão dos dados dos titulares dos cartões
-    - Utilizar software antivírus, antispyware e antimalware atualizados
+    - Utilizar software antivírus, anti-spyware e anti-malware atualizados
     - Desenvolver e manter sistemas e aplicações seguras
-    - Restringer acesso aos dados dos cartões de acordo com o cargo do empregado de cada empresa
+    - Restringir acesso aos dados dos cartões de acordo com o cargo do empregado de cada empresa
     - Designar dados de login únicos para cada usuário
-    - Restringir acesssos físicos e eletrônicos aos dados dos cartões
+    - Restringir acessos físicos e eletrônicos aos dados dos cartões
     - Rastrear e monitorar todos os acessos à rede e dados dos cartões
     - Testar a segurança de sistemas e processos regularmente
     - Definir uma política de segurança que seja seguida e mantida por todos 
