@@ -9,3 +9,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (10/10/2023 - 31/10/2023) Cybersecurity: Conhecendo As Vulnerabilidades Da Aplicação
     - Professor referência: <a href="https://www.linkedin.com/in/izidio-rosa-22005424/?originalSubdomain=">Izidio Rosa</a>
+- Resultado obtido na avaliação
+![Alt text](image-1.png)
