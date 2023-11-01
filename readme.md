@@ -11,3 +11,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência: <a href="https://www.linkedin.com/in/izidio-rosa-22005424/?originalSubdomain=">Izidio Rosa</a>
 - Resultado obtido na avaliação
 ![Alt text](image-1.png)
+
+- (01/11/2023 - 30/11/2023) Arquitetura Big Data: Como potencializar as análises e tomadas de decisões ágeis
+    - Professor referência: <a href="#">Marcelo Leite</a>
