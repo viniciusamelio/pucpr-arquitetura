@@ -13,4 +13,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 ![Alt text](image-1.png)
 
 - (01/11/2023 - 30/11/2023) Arquitetura Big Data: Como potencializar as análises e tomadas de decisões ágeis
-    - Professor referência: <a href="#">Marcelo Leite</a>
+    - Professor referência: <a href="https://www.youtube.com/@marcelocml1234">Marcelo Leite</a>
+- Resultado obtido na avaliação
+![Alt text](image-2.png)
