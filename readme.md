@@ -12,7 +12,10 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 - Resultado obtido na avaliação
 ![Alt text](image-1.png)
 
-- (01/11/2023 - 30/11/2023) Arquitetura Big Data: Como potencializar as análises e tomadas de decisões ágeis
+- (01/11/2023 - 21/11/2023) Arquitetura Big Data: Como potencializar as análises e tomadas de decisões ágeis
     - Professor referência: <a href="https://www.youtube.com/@marcelocml1234">Marcelo Leite</a>
 - Resultado obtido na avaliação
 ![Alt text](image-2.png)
+
+- (22/11/2023 - 1212/2023) Inteligência moral na era digital
+    - Professor referência: <a href="https://www.instagram.com/clovisdebarros/">Clóvis de Barros Filho</a>
