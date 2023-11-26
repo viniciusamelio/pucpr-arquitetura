@@ -1,0 +1,11 @@
+# A arte da convivência
+- Ela não tem a ver com repressão externa e não é uma simples preferÊncia
+- A moral começa na reflexão partciular e termina na ação
+- Porém, é algo que foi se dissolvendo...E agora que a moral se esfaclou?
+- A ética ganhou importância porque a moral perdeu
+- Ética: um mínimo de limite à ação de cada um para garantir convivÊncia mais ou menos justa para todos
+- A ética é esse entendimento do que minimamente temos que respeitar para que a coisa flua com alguma harmonia
+- A ética é a arte da convivência
+- É perceber que o outro existe e se dispor a limitar a tua ação por conta da presença do outro
+- Elementos fundamentais da ética: Valor, princípio de conduta e norma
+- Ela é engendrada pela ainteligência de quem convive para ter a melhor convivência possível
