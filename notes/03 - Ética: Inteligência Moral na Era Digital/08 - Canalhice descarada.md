@@ -1,0 +1,13 @@
+#  Canalhice descarada
+- A transparência entrou para o vocabulário diário, exemplo: ministério da transparência
+- É um conceito da ótica que veio para a ética
+- Transparência: faça de tal maneira que todos saibam de tudo sobre todos, o tempo inteiro e em qualquer lugar
+- A privacidade é o contrário da transparência
+- Sigilo e confidencialidade estão em todo lugar e são garantidores de uma interação mais justa
+- Esse é o delírio da complexidade e do cobertor curto
+- Entendemos a ética como um valor complexo
+- As verdades fáceis são sempre ingênuas
+- Então o que eu faço? A pergunta seria: o que nós fazemos?
+- Compliance: conformidade à valores e princípios pré-estabelecidos
+- A ética é a vitória da convivência sobre a canalhice?
+- Conduta canalha: agressão consciente ao que foi combinado anteriormente
