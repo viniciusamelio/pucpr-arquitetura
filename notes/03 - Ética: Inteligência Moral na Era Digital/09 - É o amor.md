@@ -1,0 +1,12 @@
+# É o amor
+- Valores morais, éticos e existenciais de vida
+- Moral: o eu regualamenta a vida do eu
+- Ética: O nós regulamenta a vida do nós
+- Alguns valores morais podem não ser éticos e alguns valores éticos podem não ser morais
+- Os valores existenciais vão além dos morais e éticos
+- Ética e moral não são moedas de troca para a felicidade
+- A ética é a convivÊncia que alegra
+- Tem muitas coisas que nos alegram, pessoas por exemplo
+- A boa convivência só é boa porque alegra, potencializa, põe pra cima em nome da vida
+- A ética é a preocupação de todo mundo com a felicidade de todo mundo
+- O amor é a grande referência da ética
