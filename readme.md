@@ -19,3 +19,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (22/11/2023 - 1212/2023) Inteligência moral na era digital
     - Professor referência: <a href="https://www.instagram.com/clovisdebarros/">Clóvis de Barros Filho</a>
+- Resultado obtido na avaliação
+![Alt text](image-3.png)
