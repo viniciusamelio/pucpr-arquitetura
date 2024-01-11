@@ -17,7 +17,10 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 - Resultado obtido na avaliação
 ![Alt text](image-2.png)
 
-- (22/11/2023 - 1212/2023) Inteligência moral na era digital
+- (22/11/2023 - 12/12/2023) Inteligência moral na era digital
     - Professor referência: <a href="https://www.instagram.com/clovisdebarros/">Clóvis de Barros Filho</a>
 - Resultado obtido na avaliação
 ![Alt text](image-3.png)
+
+- (09/01/2024 - ??/01/2024) Soft skills para tomada de decisão 
+    - Professo referência: <a href="https://www.instagram.com/danielhosken/">Daniel Hosken</a>
