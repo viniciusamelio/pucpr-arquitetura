@@ -42,4 +42,5 @@ Filtros de realidade (Repertório, valores, memórias, crenças)
 
 ### Neuroplasticidade
 
-É a capacidade de mudar comportamentos mediante a novos cenários e objetivos, consciente ou não
+É a capacidade de mudar comportamentos mediante a novos cenários e objetivos, consciente ou não.
+É a criação de novas trilhas
