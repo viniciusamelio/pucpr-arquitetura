@@ -8,7 +8,7 @@
 
 ### Aprendizagem sustentável
 
-Base-se em consciência e inconsciência de competências e incompetências.
+Baseia-se em consciência e inconsciência de competências e incompetências.
 
 **II - Necessidade/Motivação**
 Pra que você está mudando? O que vai ganhar com isso? O que você perde? Qual a sua motivação intrínseca?
@@ -24,7 +24,7 @@ Ganhos? Perdas? Aprendizados? Quais melhorias podem ser feitas?
 
 ## Metaprograma
 
-- São os programadas dos programas, ou seja, são os critérios pessoais que utilizamos para lidar com o mundo
+- São os programas dos programas, ou seja, são os critérios pessoais que utilizamos para lidar com o mundo
 - Cada indivíduo é único e tem seus próprios padrões e estilos para representar o mundo
 
 ### Tipos de metaprogramas

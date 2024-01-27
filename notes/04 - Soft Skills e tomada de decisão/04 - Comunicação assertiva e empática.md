@@ -13,7 +13,7 @@
 - 90% dos nossos sofrimentos acontecem por causa de nossas interpretações
 - Observação + avaliação = interpretação
 - Empatia é se colocar no lugar do outro, entendendo que o outro é outro
-- Particindo desse pressuposto, como eu respeito o outro?
+- Partindo desse pressuposto, como eu respeito o outro?
 - Empatia não é sobre concordar, mas respeitar
 - Empatia != Simpatia
 
