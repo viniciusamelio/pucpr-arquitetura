@@ -24,4 +24,7 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (09/01/2024 - 30/01/2024) Soft skills para tomada de decisão 
     - Professor referência: <a href="https://www.instagram.com/danielhosken/">Daniel Hosken</a>
-- Resultado obtido na avaliação ![Alt text](image-4.png) 
+- Resultado obtido na avaliação ![Alt text](image-4.png)
+
+- - (31/01/2024 - ??/02/2024) LGPD: Do privacy by design ao sistema legado
+    - Professora referência: <a href="https://www.linkedin.com/in/patriciapeckpinheiro/?originalSubdomain=br">Patricia Peck</a>
