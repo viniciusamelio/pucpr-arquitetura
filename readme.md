@@ -26,5 +26,7 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência: <a href="https://www.instagram.com/danielhosken/">Daniel Hosken</a>
 - Resultado obtido na avaliação ![Alt text](image-4.png)
 
-- - (31/01/2024 - ??/02/2024) LGPD: Do privacy by design ao sistema legado
+- (31/01/2024 - 21/02/2024) LGPD: Do privacy by design ao sistema legado
     - Professora referência: <a href="https://www.linkedin.com/in/patriciapeckpinheiro/?originalSubdomain=br">Patricia Peck</a>
+- Resultado obtido na avaliação
+![alt text](image-5.png)
