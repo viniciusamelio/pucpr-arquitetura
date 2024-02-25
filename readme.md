@@ -30,3 +30,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professora referência: <a href="https://www.linkedin.com/in/patriciapeckpinheiro/?originalSubdomain=br">Patricia Peck</a>
 - Resultado obtido na avaliação
 ![alt text](image-5.png)
+
+- (22/02/2024 - ??) Multicloud
+    - Professor referência: <a href="https://www.linkedin.com/in/rodrigovale/">Rodrigo Vale</a>
