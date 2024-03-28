@@ -43,3 +43,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (12/03/2024 - 02/04/2024) Migração Para Ambiente Em Cloud, Vale a Pena? Evitando a Estratégia De Lift And Shift
     - Professor referência: <a href="https://br.linkedin.com/in/roberto-prado-93051187">Roberto Prado</a>
+- Resultado obtido na avaliação
+![alt text](image-7.png)
