@@ -45,3 +45,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência: <a href="https://br.linkedin.com/in/roberto-prado-93051187">Roberto Prado</a>
 - Resultado obtido na avaliação
 ![alt text](image-7.png)
+
+- (03/04/2024 - 23/04/2024) Serverless Computing
+    - Professor referência:  <a href="https://www.linkedin.com/in/fernandosapata/?originalSubdomain=br">Fernando Sapata</a>
