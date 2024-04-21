@@ -48,3 +48,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (03/04/2024 - 23/04/2024) Serverless Computing
     - Professor referência:  <a href="https://www.linkedin.com/in/fernandosapata/?originalSubdomain=br">Fernando Sapata</a>
+- Resultado obtido na avaliação
+![alt text](image-8.png)
