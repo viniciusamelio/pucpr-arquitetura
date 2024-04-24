@@ -50,3 +50,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência:  <a href="https://www.linkedin.com/in/fernandosapata/?originalSubdomain=br">Fernando Sapata</a>
 - Resultado obtido na avaliação
 ![alt text](image-8.png)
+
+- (23/04/2024 - 14/05/2024) Mitigando Atritos Entre Times Utilizando Devsecops
+    - Professor referência: <a href="https://www.linkedin.com/in/caiopereirasousa/">Caio Pereira</a>
