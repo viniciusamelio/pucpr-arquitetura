@@ -42,3 +42,4 @@
 - Immagens de containers carregam código e sistema operacional em um único artefato
 - Executa checks para avaliar se existem brechas para invação - Ex: porta ssh aberta
 - Verifica ferramentas instaladas no containers que podem trazer risco - Ex: bash shell
+
