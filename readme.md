@@ -53,3 +53,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (23/04/2024 - 14/05/2024) Mitigando Atritos Entre Times Utilizando Devsecops
     - Professor referência: <a href="https://www.linkedin.com/in/caiopereirasousa/">Caio Pereira</a>
+- Resultado obtido na avaliação
+![alt text](image-9.png)
