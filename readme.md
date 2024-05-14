@@ -55,3 +55,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência: <a href="https://www.linkedin.com/in/caiopereirasousa/">Caio Pereira</a>
 - Resultado obtido na avaliação
 ![alt text](image-9.png)
+
+- (14/05/2024 - 04/06/2024) Projetando Arquitetura Com Segurança: Um Framework Para Proteger O Ciclo De Vida Do Software
+    - Professor referência: <a href="https://yuridiogenes.wordpress.com/about/">Yuri Diogenes</a>
