@@ -63,3 +63,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (04/06/2024 - 25/06/2024) Ciência de Dados: Agile Data Science Escalável
     - Professor referência: <a href="https://www.linkedin.com/in/renatodmb/?originalSubdomain=br">Renato Barbosa</a>
+- Resultado obtido na avaliação
+![alt text](image-11.png)
