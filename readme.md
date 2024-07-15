@@ -65,3 +65,8 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência: <a href="https://www.linkedin.com/in/renatodmb/?originalSubdomain=br">Renato Barbosa</a>
 - Resultado obtido na avaliação
 ![alt text](image-11.png)
+
+- (25/06 a 16/07) Arquitetura de Microsserviços e Microcontainer
+    - Professor referência <a href="https://www.linkedin.com/in/giovanejr/">Giovane Moura</a>
+- Resultado obtido na avaliação
+![alt text](image-12.png)
