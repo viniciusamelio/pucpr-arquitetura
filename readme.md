@@ -73,3 +73,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (06/08 a 27/08) Devops
     - Professor referência <a href="https://www.linkedin.com/in/analiairigoyen/?locale=pt_BR">Analia Irigoyen</a>
+- Resultado obtido na avaliação
+![alt text](image-13.png)
