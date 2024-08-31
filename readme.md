@@ -75,3 +75,6 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
     - Professor referência <a href="https://www.linkedin.com/in/analiairigoyen/?locale=pt_BR">Analia Irigoyen</a>
 - Resultado obtido na avaliação
 ![alt text](image-13.png)
+
+- (27/08 a 17/09) Padrões arquiteturais
+    - Professor referência <a href="https://www.linkedin.com/in/psevestre/?originalSubdomain=br">Philippe Sevestre</a>
