@@ -78,3 +78,5 @@ Nesse repositório será possível encontrar todas minhas anotações e conteúd
 
 - (27/08 a 17/09) Padrões arquiteturais
     - Professor referência <a href="https://www.linkedin.com/in/psevestre/?originalSubdomain=br">Philippe Sevestre</a>
+- Resultado obtido na avaliação
+![alt text](image-14.png)
